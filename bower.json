@@ -1,0 +1,19 @@
+{
+  "name": "blur",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "latest",
+    "json3": "latest",
+    "jquery": "~1.10.2",
+    "sass-bootstrap": "latest",
+    "es5-shim": "latest",
+    "angular-resource": "latest",
+    "angular-cookies": "latest",
+    "angular-sanitize": "latest",
+    "typeahead.js": "~0.9.3"
+  },
+  "devDependencies": {
+    "angular-mocks": "latest",
+    "angular-scenario": "latest"
+  }
+}
