@@ -1,10 +1,10 @@
 'use strict';
 
 angular.module('blurApp')
-  .controller('MainCtrl', function ($scope) {
+  .controller('MainCtrl', ['$scope', 'StackMobService', function ($scope, StackMobService) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
       'Karma'
     ];
-  });
+  }]);

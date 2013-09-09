@@ -10,7 +10,8 @@
     "angular-resource": "latest",
     "angular-cookies": "latest",
     "angular-sanitize": "latest",
-    "typeahead.js": "~0.9.3"
+    "typeahead.js": "~0.9.3",
+    "stackmob": "http://static.stackmob.com/js/stackmob-js-0.9.2-bundled-min.js"
   },
   "devDependencies": {
     "angular-mocks": "latest",
